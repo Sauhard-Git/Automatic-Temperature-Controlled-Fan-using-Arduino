@@ -85,9 +85,11 @@ Repeat Continuously
 # 📚 Libraries Used
 
 ```cpp
+#include <Adafruit_Sensor.h>
+#include <DHT.h>
+#include <DHT_U.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
-#include <DHT.h>
 ```
 
 ---
